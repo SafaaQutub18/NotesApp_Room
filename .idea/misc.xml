@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/My Pc/AndroidStudioProjects/NotesApp _Room/app/src/main/res/drawable/custom_button.xml" value="0.2203125" />
+        <entry key="..\:/Users/My Pc/AndroidStudioProjects/NotesApp _Room/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/My Pc/AndroidStudioProjects/NotesApp _Room/app/src/main/res/layout/alert_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/My Pc/AndroidStudioProjects/NotesApp _Room/app/src/main/res/layout/row_recyclerview.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/My Pc/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/custom_button.xml" value="0.2203125" />
         <entry key="..\:/Users/My Pc/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/not_style.xml" value="0.1125" />
         <entry key="..\:/Users/My Pc/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/note_style.xml" value="0.1125" />
